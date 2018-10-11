@@ -1,0 +1,15 @@
+// --- Colors ----------------------------------------
+$black: #221e1f;
+$white: #ffffff;
+
+// --- Transitions -----------------------------------
+$theEasing: ease-in-out;
+$theTiming: 200ms;
+$theSlowTiming: 700ms;
+$theSlowerTiming: 1.2s;
+
+$theTransition: all $theTiming $theEasing;
+$theSlowTransition: all $theSlowTiming $theEasing;
+$theSlowerTransition: all $theSlowerTiming $theEasing;
+
+// --- Fonts -----------------------------------------
